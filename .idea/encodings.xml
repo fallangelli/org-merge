@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sino/org/merge/repository/CommonRepository.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sino/org/merge/repository/CommonRepositoryFactoryBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sino/org/merge/repository/CommonRepositoryImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sino/org/merge/sql" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
